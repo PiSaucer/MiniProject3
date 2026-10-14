@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,MeanResolutionTime_min,Notes
+HasRecovered,40.0,100.0,-0.250000,1.000000,6,6,NA,Consensus-based post kappa; disagreements use adjudicated value for both ratings.
+WhyRecovered,40.0,80.0,NA,NA,4,4,NA,Kappa not applicable for this qualitative field.
+ActivityPattern,50.0,100.0,0.230769,1.000000,5,5,NA,Consensus-based post kappa; disagreements use adjudicated value for both ratings.
+Currentstatus,40.0,100.0,-0.363636,1.000000,6,6,NA,Consensus-based post kappa; disagreements use adjudicated value for both ratings.
+RecentThemes,0.0,80.0,NA,NA,8,8,NA,Kappa not applicable for this qualitative field.
